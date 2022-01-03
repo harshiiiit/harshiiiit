@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello, I'm Harshit Singh! 👋
 
+## A passionate computer science student from India
+
+💬 I'm a competitive programmer with a keen interest in solving math and algorithmic problems.
+👨‍💻 All of my projects are available at github.
+🔭 I’m currently working on Machine Learning Projects.
+🌱 I’m currently learning Advanced Machine Learning Techniques and Algorithms.
 <!--
 **harshiiiit/harshiiiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
