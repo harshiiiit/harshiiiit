@@ -1,6 +1,6 @@
-### Hello, I'm Harshit Singh! 👋
+###                                                     Hello, I'm Harshit Singh! 👋
 
-## A passionate computer science student from India
+##                                             A passionate computer science student from India
 
 💬 I'm a competitive programmer with a keen interest in solving math and algorithmic problems.
 👨‍💻 All of my projects are available at github.
