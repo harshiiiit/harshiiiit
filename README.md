@@ -1,12 +1,6 @@
-###                                                     Hello, I'm Harshit Singh! 👋
+### Hello, I'm Harshit Singh! 👋
 
-##                                             A passionate computer science student from India
-
-
-👨‍💻 All of my projects are available at github.
-🌱 I’m currently learning
-
-**harshiiiit/harshiiiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <pre>A passionate computer science student from India
 
 Here are some ideas to get you started:
 
