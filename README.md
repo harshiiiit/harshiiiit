@@ -1,14 +1,27 @@
-### Hello, I'm Harshit Singh! 👋
+# Hi, I'm Harshiiiit 👋🏾 👩🏾‍💻
 
-# <pre>A passionate computer science student from India
+[![Linkedin: Harshit](https://img.shields.io/badge/-Tanya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshiiiit/)](https://www.linkedin.com/in/harshiiiit/)
+![GitHub followers](https://img.shields.io/github/followers/harshiiiit?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=tanyarajhans7&color=brightgreen">  
 
-Here are some ideas to get you started:
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
 
-- 💬 I'm a competitive programmer with a keen interest in solving math and algorithmic problems.
-- 🔭 I’m currently working on Machine Learning Projects.
-- 🌱 I’m currently learning Advanced Machine Learning Techniques and Algorithms.
-- 🤔 I’m looking for Internships for SDE or Data Scientist Roles.
-- 💬 Ask me about Machine Learning or Algorithms.
-- 📫 How to reach me on [LinkedIn- @harshiiiit](www.linkedin.com/in/harshiiiit)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend hours gaming on my PC.
+
+## 👨🏻‍💻 &nbsp;About Me
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Pranveer Singh Institute of Technology, Kanpur.\
+💡 &nbsp;Some technologies I enjoy working with include Python, JavaScript and C++. Currently exploring ReactJS.\
+🌱 &nbsp;I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.\
+✉️ &nbsp;You can shoot me an email at singhh198@gmail.com! I'll try to respond as soon as I can.
+
+
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/harshiiiit/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Struggling on <a href="https://www.leetcode.com/harshiiiit/">LeetCode</a> 😍
+- Practising on <a href="https://www.codeforces.com/profile/harshiiiit/">Codeforces</a> 🙃
+- Sharing updates on <a href="https://www.linkedin.com/in/harshiiiit/">LinkedIn</a> 😇
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/harshiiiit/Actions/blob/output/github-contribution-grid-snake.svg)
