@@ -23,4 +23,4 @@
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashvinarora07&show_icons=true&locale=en&layout=compact" alt="ashvinarora07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashvinarora07&show_icons=true&locale=en" alt="ashvinarora07" /></p>
