@@ -50,8 +50,8 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vivek.p9737@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/vivek9patel"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/harshiiiit"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:singhh198@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/harshiiiit"><img src="https://img.shields.io/badge/-@vivek9patel-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
