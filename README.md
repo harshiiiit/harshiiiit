@@ -42,7 +42,6 @@
 <p align="center">
 <a href="https://github.com/harshiiiit">
 ![](https://raw.githubusercontent.com/harshiiiit/github-stats/master/generated/overview.svg#gh-dark-mode-only)
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiiit&langs_count=5&theme=tokyonight)]()
 </a>
 </p>
 
